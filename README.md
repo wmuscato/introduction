@@ -41,3 +41,14 @@ Product Marketing, Product Management, Enterprise Group,
 Gemalto, 
 Senior Manager, Field Marketing, 
 2004 - 2006
+
+# Education
+
+Rochester Institute of Technology, 
+BS, Electrical/Computer Engineering
+
+The Ohio State University, 
+Master of Business Administration - MBA
+
+Stanford University, 
+Computer Science
